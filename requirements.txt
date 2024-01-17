@@ -1,0 +1,4 @@
+streamlit
+streamlit-audiorecorder
+pydub
+git+https://github.com/openai/whisper.git 
